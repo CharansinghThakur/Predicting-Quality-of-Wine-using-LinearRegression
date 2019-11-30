@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-The things that you must have a decent knowledge on: 
+Knowledge on: 
 ```
     * Python
     * Linear Algebra
@@ -11,7 +11,7 @@ The things that you must have a decent knowledge on:
 
 ### Installation
 
-* This project is fully based on python. So, the necessary modules needed for computaion are:
+* This project is fully based on Python. So, the necessary modules needed for computation are:
 ```
     * Numpy
     * Sklearn
@@ -23,6 +23,7 @@ The things that you must have a decent knowledge on:
 
     pip install numpy
     pip install sklearn
+    pip install pandas
     pip install matplotlib
  
 ```
