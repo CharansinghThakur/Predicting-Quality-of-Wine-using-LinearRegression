@@ -30,12 +30,20 @@ The things that you must have a decent knowledge on:
 ```python
 
     import numpy
+    import pandas
     from sklearn.decomposition import kernelPCA 
     import matplotlib.pyplot as plt
     
 ```
-### Explanation 
+### About Model
 
-* Here were performing **linear regression** on the Boston house pricing dataset.
-* The details of the dataset are:
-  1.Title: Boston Housing Data
+* There are total of 11 input featues which predicts the value of output feature.
+* This model ranks the quality of the wine which ranks between 0-9.
+
+
+
+### Accuracy
+
+Root Mean Squared Error : 1.0530163994045705
+
+
