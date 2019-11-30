@@ -38,4 +38,4 @@ The things that you must have a decent knowledge on:
 
 * Here were performing **linear regression** on the Boston house pricing dataset.
 * The details of the dataset are:
-  Title: Boston Housing Data
+  1.Title: Boston Housing Data
