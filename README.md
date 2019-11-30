@@ -39,7 +39,7 @@ Knowledge on:
 ### About Model
 
 * There are total of 11 input featues which predicts the value of output feature.
-* This model ranks the quality of the wine which ranks between 0-9.
+* This model ranks the quality of the wine which ranks between 1-10.
 
 
 
